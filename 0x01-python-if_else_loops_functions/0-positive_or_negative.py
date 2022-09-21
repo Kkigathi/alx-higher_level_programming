@@ -6,4 +6,8 @@ if number < 0:
 elif number > 0:
     print("{:d} is positive".format(number))
 else:
+<<<<<<< HEAD
     print("0 is zero")	
+=======
+    print("0 is zero")
+>>>>>>> 2648c8b11a14c25b5ebfcce260cb7a9b25a1fb76
