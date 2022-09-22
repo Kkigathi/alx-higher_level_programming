@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d28b4c-aa34-400f-91bb-46af716f3c92" name="Changes" comment="dechex">
-      <change afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/5-print_comb2.py" afterDir="false" />
+    <list default="true" id="58d28b4c-aa34-400f-91bb-46af716f3c92" name="Changes" comment="CORRECTION">
+      <change afterPath="$PROJECT_DIR$/.idea/alx-higher_level_programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,57 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.2-print_alphabet">
+    <configuration name="2-print_alphabet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x01-python-if_else_loops_functions/2-print_alphabet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nii no kata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ za hajime" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ za hajime/nii no kata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2-print_alphabet" />
+        <item itemvalue="Python.nii no kata" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -156,7 +208,182 @@
       <option name="project" value="LOCAL" />
       <updated>1663796148761</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dechex">
+      <created>1663796825467</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663796825467</updated>
+    </task>
+    <task id="LOCAL-00018" summary="comb2">
+      <created>1663796885393</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663796885393</updated>
+    </task>
+    <task id="LOCAL-00019" summary="comb2">
+      <created>1663796931568</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663796931568</updated>
+    </task>
+    <task id="LOCAL-00020" summary="comb3">
+      <created>1663798248312</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663798248312</updated>
+    </task>
+    <task id="LOCAL-00021" summary="comb3">
+      <created>1663798381026</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663798381026</updated>
+    </task>
+    <task id="LOCAL-00022" summary="islower">
+      <created>1663800491286</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663800491286</updated>
+    </task>
+    <task id="LOCAL-00023" summary="islower">
+      <created>1663800504926</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663800504926</updated>
+    </task>
+    <task id="LOCAL-00024" summary="islower">
+      <created>1663800561411</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663800561411</updated>
+    </task>
+    <task id="LOCAL-00025" summary="uppercase">
+      <created>1663801045307</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801045307</updated>
+    </task>
+    <task id="LOCAL-00026" summary="uppercase">
+      <created>1663801175393</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801175393</updated>
+    </task>
+    <task id="LOCAL-00027" summary="uppercase">
+      <created>1663801192523</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801192523</updated>
+    </task>
+    <task id="LOCAL-00028" summary="uppercase">
+      <created>1663801491046</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801491046</updated>
+    </task>
+    <task id="LOCAL-00029" summary="lastdigit">
+      <created>1663801519716</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801519716</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add">
+      <created>1663801769986</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801769986</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add">
+      <created>1663801915020</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1663801915020</updated>
+    </task>
+    <task id="LOCAL-00032" summary="power">
+      <created>1663802196236</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663802196236</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fizzbuzz">
+      <created>1663802573293</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1663802573293</updated>
+    </task>
+    <task id="LOCAL-00034" summary="insert">
+      <created>1663802820594</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663802820594</updated>
+    </task>
+    <task id="LOCAL-00035" summary="header">
+      <created>1663802909315</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1663802909315</updated>
+    </task>
+    <task id="LOCAL-00036" summary="tebahpla">
+      <created>1663803243658</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663803243658</updated>
+    </task>
+    <task id="LOCAL-00037" summary="notat">
+      <created>1663803450527</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1663803450527</updated>
+    </task>
+    <task id="LOCAL-00038" summary="notat">
+      <created>1663803507295</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1663803507295</updated>
+    </task>
+    <task id="LOCAL-00039" summary="calc">
+      <created>1663803624915</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1663803624915</updated>
+    </task>
+    <task id="LOCAL-00040" summary="README">
+      <created>1663823365803</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1663823365803</updated>
+    </task>
+    <task id="LOCAL-00041" summary="CORRECTION">
+      <created>1663823554621</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1663823554621</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +396,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="herro warrudo" />
@@ -177,6 +405,21 @@
     <MESSAGE value="l-alphabet" />
     <MESSAGE value="l-alphabet q" />
     <MESSAGE value="dechex" />
-    <option name="LAST_COMMIT_MESSAGE" value="dechex" />
+    <MESSAGE value="comb2" />
+    <MESSAGE value="comb3" />
+    <MESSAGE value="islower" />
+    <MESSAGE value="uppercase" />
+    <MESSAGE value="lastdigit" />
+    <MESSAGE value="add" />
+    <MESSAGE value="power" />
+    <MESSAGE value="fizzbuzz" />
+    <MESSAGE value="insert" />
+    <MESSAGE value="header" />
+    <MESSAGE value="tebahpla" />
+    <MESSAGE value="notat" />
+    <MESSAGE value="calc" />
+    <MESSAGE value="README" />
+    <MESSAGE value="CORRECTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="CORRECTION" />
   </component>
 </project>
