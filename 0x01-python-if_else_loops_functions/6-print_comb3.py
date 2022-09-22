@@ -5,3 +5,4 @@ for x in range(0, 9):
             print("{:d}{:d}".format(x, y))
             break
         print("{:d}{:d}".format(x, y), end=", ")
+
