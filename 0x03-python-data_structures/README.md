@@ -62,7 +62,6 @@ If a tuple is smaller than 2, the value 0 is used for the missing integer.
 If a tuple is larger than 2, only the first two integers are used.
 Without importing modules.
 8. More returns!
-
 8-multiple_returns.py: Python function that returns a tuple with the length of a string and its first character.
 If the string is empty, the first character should equal None.
 Without importing modules.
