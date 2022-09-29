@@ -5,4 +5,3 @@ def complex_delete(a_dictionary, value):
         if value in v:
             del a_dictionary[k]
     return a_dictionary
-
